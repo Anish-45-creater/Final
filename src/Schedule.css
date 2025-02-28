@@ -151,7 +151,7 @@
     flex-direction: column;
     align-items: center;
     gap: 20px;
-    margin-left: 280px;
+    margin-left: 230px;
   }
   
   #heading {
@@ -167,7 +167,7 @@
     flex-direction: column;
     align-items: center;
     gap: 20px;
-    margin-left: 220px;
+    margin-left: 140px;
   }
   #heading{
     margin-left: 50px;
@@ -180,7 +180,7 @@
     flex-direction: column;
     align-items: center;
     gap: 20px;
-    margin-left:-20px;
+    margin-left:30px;
   }
   #heading{
     margin-left: 80px;
