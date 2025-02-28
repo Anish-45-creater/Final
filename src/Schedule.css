@@ -134,7 +134,7 @@
     align-items: center;
     gap: 20px;
     width: 50%;
-    margin-left: 20px;
+    margin-left: 30%;
   }
   
   #heading {
@@ -167,7 +167,7 @@
     flex-direction: column;
     align-items: center;
     gap: 20px;
-    margin-left: 20px;
+    margin-left: 20%;
   }
   #heading{
     margin-left: 50px;
@@ -180,7 +180,7 @@
     flex-direction: column;
     align-items: center;
     gap: 20px;
-    margin-left:100px;
+    margin-left:13%;
   }
   #heading{
     margin-left: 50px;
